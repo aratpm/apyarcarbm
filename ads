@@ -3,8 +3,8 @@
 "linktwo":"https://google.com/",
 
 "appId":"ca-app-pub-2449640894622823~1820484299",
-"banner":"ca-app-pub-2449640894622823/5381838244",
-"interstial":"ca-app-pub-2449640894622823/2564103211",
+"banner":"NOca-app-pub-2449640894622823/5381838244",
+"interstial":"NOca-app-pub-2449640894622823/2564103211",
 "AppOpen":"ca-app-pub-2449640894622823/5455836349",
 "linkbackup":"https://aratpm.github.io/apyarcarbm/",
 
