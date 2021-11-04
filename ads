@@ -1,6 +1,6 @@
 {"status":true,
-"linkoneA":"https://aratpm.github.io/apyarcarbm/",
-"linkone":"https://google.com/",
+"linkone":"https://aratpm.github.io/apyarcarbm/",
+"linkoneA":"https://google.com/",
 
 "appId":"ca-app-pub-2449640894622823~1820484299",
 "banner":"ca-app-pub-2449640894622823/5381838244",
