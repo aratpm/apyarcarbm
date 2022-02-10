@@ -1,5 +1,5 @@
 {"status":true,
-"linkone":"https://aratpm.github.io/apyarcarbm/",
+"linkone":"https://aratpm.github.io/fkarassun/",
 "linkoneA":"https://google.com/",
 
 "appId":"ca-app-pub-2449640894622823~1820484299",
